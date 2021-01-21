@@ -1,0 +1,181 @@
+,HomeTeam,AwayTeam
+0,M'gladbach,Bayern Munich
+1,Union Berlin,Wolfsburg
+2,Leverkusen,Werder Bremen
+3,Mainz,Ein Frankfurt
+4,Freiburg,FC Koln
+5,Schalke 04,Hoffenheim
+6,RB Leipzig,Dortmund
+7,Augsburg,Stuttgart
+8,Bielefeld,Hertha
+9,Union Berlin,Leverkusen
+10,Dortmund,Mainz
+11,FC Koln,Hertha
+12,Hoffenheim,Bielefeld
+13,Werder Bremen,Augsburg
+14,Wolfsburg,RB Leipzig
+15,Stuttgart,M'gladbach
+16,Bayern Munich,Freiburg
+17,Ein Frankfurt,Schalke 04
+18,M'gladbach,Werder Bremen
+19,Leverkusen,Dortmund
+20,Hertha,Hoffenheim
+21,Mainz,Wolfsburg
+22,Schalke 04,FC Koln
+23,Bielefeld,Stuttgart
+24,Augsburg,Bayern Munich
+25,RB Leipzig,Union Berlin
+26,Freiburg,Ein Frankfurt
+27,M'gladbach,Dortmund
+28,Bielefeld,Ein Frankfurt
+29,Leverkusen,Wolfsburg
+30,Augsburg,Union Berlin
+31,Mainz,RB Leipzig
+32,Freiburg,Stuttgart
+33,Hertha,Werder Bremen
+34,Schalke 04,Bayern Munich
+35,Hoffenheim,FC Koln
+36,Union Berlin,M'gladbach
+37,Bayern Munich,Hoffenheim
+38,Dortmund,Augsburg
+39,FC Koln,Bielefeld
+40,Ein Frankfurt,Hertha
+41,RB Leipzig,Leverkusen
+42,Stuttgart,Mainz
+43,Werder Bremen,Schalke 04
+44,Wolfsburg,Freiburg
+45,Bielefeld,Werder Bremen
+46,Leverkusen,Stuttgart
+47,Augsburg,Wolfsburg
+48,Hertha,Bayern Munich
+49,Hoffenheim,Ein Frankfurt
+50,M'gladbach,FC Koln
+51,Mainz,Union Berlin
+52,Freiburg,Dortmund
+53,Schalke 04,RB Leipzig
+54,Union Berlin,Schalke 04
+55,Leverkusen,Mainz
+56,Bayern Munich,Bielefeld
+57,Dortmund,Hoffenheim
+58,Ein Frankfurt,FC Koln
+59,RB Leipzig,Augsburg
+60,Stuttgart,Hertha
+61,Werder Bremen,Freiburg
+62,Wolfsburg,M'gladbach
+63,Bielefeld,Wolfsburg
+64,FC Koln,Stuttgart
+65,Ein Frankfurt,Bayern Munich
+66,Augsburg,Leverkusen
+67,Hertha,RB Leipzig
+68,Hoffenheim,Werder Bremen
+69,M'gladbach,Mainz
+70,Freiburg,Union Berlin
+71,Schalke 04,Dortmund
+72,Union Berlin,Hoffenheim
+73,Leverkusen,Freiburg
+74,Bayern Munich,FC Koln
+75,Dortmund,Bielefeld
+76,Mainz,Augsburg
+77,RB Leipzig,M'gladbach
+78,Stuttgart,Schalke 04
+79,Werder Bremen,Ein Frankfurt
+80,Wolfsburg,Hertha
+81,Bielefeld,Union Berlin
+82,Bayern Munich,Dortmund
+83,FC Koln,Werder Bremen
+84,Ein Frankfurt,Stuttgart
+85,Hertha,Augsburg
+86,Hoffenheim,Wolfsburg
+87,M'gladbach,Leverkusen
+88,Freiburg,RB Leipzig
+89,Schalke 04,Mainz
+90,Union Berlin,FC Koln
+91,Leverkusen,Bielefeld
+92,Dortmund,Hertha
+93,Augsburg,M'gladbach
+94,Mainz,Freiburg
+95,RB Leipzig,Ein Frankfurt
+96,Stuttgart,Hoffenheim
+97,Werder Bremen,Bayern Munich
+98,Wolfsburg,Schalke 04
+99,Bielefeld,RB Leipzig
+100,Bayern Munich,Stuttgart
+101,FC Koln,Dortmund
+102,Ein Frankfurt,Union Berlin
+103,Hertha,Leverkusen
+104,Hoffenheim,Mainz
+105,Freiburg,Augsburg
+106,Schalke 04,M'gladbach
+107,Werder Bremen,Wolfsburg
+108,Union Berlin,Hertha
+109,Leverkusen,Schalke 04
+110,Dortmund,Ein Frankfurt
+111,Augsburg,Hoffenheim
+112,M'gladbach,Freiburg
+113,Mainz,Bielefeld
+114,RB Leipzig,Bayern Munich
+115,Stuttgart,Werder Bremen
+116,Wolfsburg,FC Koln
+117,Bielefeld,Freiburg
+118,Bayern Munich,Union Berlin
+119,FC Koln,Mainz
+120,Ein Frankfurt,Wolfsburg
+121,Hertha,M'gladbach
+122,Hoffenheim,Leverkusen
+123,Schalke 04,Augsburg
+124,Stuttgart,Dortmund
+125,Werder Bremen,RB Leipzig
+126,Union Berlin,Stuttgart
+127,Leverkusen,FC Koln
+128,Dortmund,Werder Bremen
+129,Augsburg,Bielefeld
+130,M'gladbach,Ein Frankfurt
+131,Mainz,Hertha
+132,RB Leipzig,Hoffenheim
+133,Freiburg,Schalke 04
+134,Wolfsburg,Bayern Munich
+135,Bielefeld,Schalke 04
+136,Bayern Munich,Leverkusen
+137,Dortmund,Union Berlin
+138,FC Koln,RB Leipzig
+139,Ein Frankfurt,Augsburg
+140,Hertha,Freiburg
+141,Hoffenheim,M'gladbach
+142,Stuttgart,Wolfsburg
+143,Werder Bremen,Mainz
+144,Union Berlin,Werder Bremen
+145,Leverkusen,Ein Frankfurt
+146,Augsburg,FC Koln
+147,M'gladbach,Bielefeld
+148,Mainz,Bayern Munich
+149,RB Leipzig,Stuttgart
+150,Freiburg,Hoffenheim
+151,Schalke 04,Hertha
+152,Wolfsburg,Dortmund
+153,Bayern Munich,M'gladbach
+154,Dortmund,RB Leipzig
+155,FC Koln,Freiburg
+156,Ein Frankfurt,Mainz
+157,Hertha,Bielefeld
+158,Hoffenheim,Schalke 04
+159,Stuttgart,Augsburg
+160,Werder Bremen,Leverkusen
+161,Wolfsburg,Union Berlin
+162,Bielefeld,Hoffenheim
+163,Leverkusen,Union Berlin
+164,Augsburg,Werder Bremen
+165,Hertha,FC Koln
+166,M'gladbach,Stuttgart
+167,Mainz,Dortmund
+168,RB Leipzig,Wolfsburg
+169,Freiburg,Bayern Munich
+170,Schalke 04,Ein Frankfurt
+171,Union Berlin,RB Leipzig
+172,Bayern Munich,Augsburg
+173,Dortmund,Leverkusen
+174,FC Koln,Schalke 04
+175,Ein Frankfurt,Freiburg
+176,Hoffenheim,Hertha
+177,Stuttgart,Bielefeld
+178,Werder Bremen,M'gladbach
+179,Wolfsburg,Mainz

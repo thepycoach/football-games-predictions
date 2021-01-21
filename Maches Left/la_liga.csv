@@ -1,0 +1,211 @@
+,HomeTeam,AwayTeam
+0,Celta,Villarreal
+1,Sevilla,Sociedad
+2,Ath Madrid,Ath Bilbao
+3,Granada,Barcelona
+4,Osasuna,Real Madrid
+5,Levante,Eibar
+6,Cadiz,Alaves
+7,Elche,Getafe
+8,Valladolid,Valencia
+9,Huesca,Betis
+10,Granada,Osasuna
+11,Ath Madrid,Sevilla
+12,Cadiz,Levante
+13,Valladolid,Elche
+14,Alaves,Sevilla
+15,Getafe,Huesca
+16,Betis,Celta
+17,Villarreal,Granada
+18,Valencia,Osasuna
+19,Eibar,Ath Madrid
+20,Levante,Valladolid
+21,Huesca,Villarreal
+22,Sevilla,Cadiz
+23,Sociedad,Betis
+24,Alaves,Real Madrid
+25,Osasuna,Granada
+26,Elche,Barcelona
+27,Celta,Eibar
+28,Ath Madrid,Valencia
+29,Ath Bilbao,Getafe
+30,Barcelona,Ath Bilbao
+31,Cadiz,Ath Madrid
+32,Eibar,Sevilla
+33,Getafe,Alaves
+34,Granada,Celta
+35,Betis,Osasuna
+36,Real Madrid,Levante
+37,Valladolid,Huesca
+38,Valencia,Elche
+39,Villarreal,Sociedad
+40,Alaves,Valladolid
+41,Ath Bilbao,Valencia
+42,Ath Madrid,Celta
+43,Elche,Villarreal
+44,Levante,Granada
+45,Osasuna,Eibar
+46,Betis,Barcelona
+47,Sociedad,Cadiz
+48,Huesca,Real Madrid
+49,Sevilla,Getafe
+50,Barcelona,Alaves
+51,Cadiz,Ath Bilbao
+52,Celta,Elche
+53,Eibar,Valladolid
+54,Getafe,Sociedad
+55,Granada,Ath Madrid
+56,Levante,Osasuna
+57,Real Madrid,Valencia
+58,Sevilla,Huesca
+59,Villarreal,Betis
+60,Ath Bilbao,Villarreal
+61,Ath Madrid,Levante
+62,Barcelona,Cadiz
+63,Elche,Eibar
+64,Osasuna,Sevilla
+65,Betis,Getafe
+66,Sociedad,Alaves
+67,Valladolid,Real Madrid
+68,Huesca,Granada
+69,Valencia,Celta
+70,Alaves,Osasuna
+71,Cadiz,Betis
+72,Celta,Valladolid
+73,Eibar,Huesca
+74,Getafe,Valencia
+75,Granada,Elche
+76,Levante,Ath Bilbao
+77,Real Madrid,Sociedad
+78,Sevilla,Barcelona
+79,Villarreal,Ath Madrid
+80,Ath Bilbao,Granada
+81,Ath Madrid,Real Madrid
+82,Cadiz,Eibar
+83,Elche,Sevilla
+84,Osasuna,Barcelona
+85,Betis,Alaves
+86,Sociedad,Levante
+87,Valladolid,Getafe
+88,Huesca,Celta
+89,Valencia,Villarreal
+90,Alaves,Cadiz
+91,Barcelona,Huesca
+92,Celta,Ath Bilbao
+93,Eibar,Villarreal
+94,Getafe,Ath Madrid
+95,Granada,Sociedad
+96,Levante,Valencia
+97,Osasuna,Valladolid
+98,Real Madrid,Elche
+99,Sevilla,Betis
+100,Ath Bilbao,Eibar
+101,Ath Madrid,Alaves
+102,Celta,Real Madrid
+103,Getafe,Elche
+104,Betis,Levante
+105,Sociedad,Barcelona
+106,Valladolid,Sevilla
+107,Huesca,Osasuna
+108,Valencia,Granada
+109,Villarreal,Cadiz
+110,Alaves,Celta
+111,Barcelona,Valladolid
+112,Cadiz,Valencia
+113,Elche,Betis
+114,Granada,Villarreal
+115,Levante,Huesca
+116,Osasuna,Getafe
+117,Real Madrid,Eibar
+118,Sociedad,Ath Bilbao
+119,Sevilla,Ath Madrid
+120,Ath Bilbao,Alaves
+121,Celta,Sevilla
+122,Eibar,Levante
+123,Getafe,Cadiz
+124,Betis,Ath Madrid
+125,Real Madrid,Barcelona
+126,Valladolid,Granada
+127,Huesca,Elche
+128,Valencia,Sociedad
+129,Villarreal,Osasuna
+130,Alaves,Villarreal
+131,Ath Madrid,Huesca
+132,Barcelona,Getafe
+133,Cadiz,Real Madrid
+134,Elche,Valladolid
+135,Granada,Eibar
+136,Levante,Sevilla
+137,Osasuna,Valencia
+138,Betis,Ath Bilbao
+139,Sociedad,Celta
+140,Ath Bilbao,Ath Madrid
+141,Celta,Osasuna
+142,Eibar,Sociedad
+143,Elche,Levante
+144,Real Madrid,Betis
+145,Valladolid,Cadiz
+146,Huesca,Getafe
+147,Sevilla,Granada
+148,Valencia,Alaves
+149,Villarreal,Barcelona
+150,Alaves,Huesca
+151,Ath Bilbao,Valladolid
+152,Ath Madrid,Eibar
+153,Barcelona,Granada
+154,Cadiz,Celta
+155,Getafe,Real Madrid
+156,Levante,Villarreal
+157,Osasuna,Elche
+158,Betis,Valencia
+159,Sociedad,Sevilla
+160,Celta,Levante
+161,Eibar,Alaves
+162,Elche,Ath Madrid
+163,Granada,Cadiz
+164,Real Madrid,Osasuna
+165,Valladolid,Betis
+166,Huesca,Sociedad
+167,Sevilla,Ath Bilbao
+168,Valencia,Barcelona
+169,Villarreal,Getafe
+170,Alaves,Levante
+171,Ath Bilbao,Osasuna
+172,Barcelona,Ath Madrid
+173,Cadiz,Huesca
+174,Getafe,Eibar
+175,Betis,Granada
+176,Real Madrid,Sevilla
+177,Sociedad,Elche
+178,Valencia,Valladolid
+179,Villarreal,Celta
+180,Ath Madrid,Sociedad
+181,Celta,Getafe
+182,Eibar,Betis
+183,Elche,Alaves
+184,Granada,Real Madrid
+185,Levante,Barcelona
+186,Osasuna,Cadiz
+187,Valladolid,Villarreal
+188,Huesca,Ath Bilbao
+189,Sevilla,Valencia
+190,Alaves,Granada
+191,Ath Bilbao,Real Madrid
+192,Ath Madrid,Osasuna
+193,Barcelona,Celta
+194,Cadiz,Elche
+195,Getafe,Levante
+196,Betis,Huesca
+197,Sociedad,Valladolid
+198,Valencia,Eibar
+199,Villarreal,Sevilla
+200,Celta,Betis
+201,Eibar,Barcelona
+202,Elche,Ath Bilbao
+203,Granada,Getafe
+204,Levante,Cadiz
+205,Osasuna,Sociedad
+206,Real Madrid,Villarreal
+207,Valladolid,Ath Madrid
+208,Huesca,Valencia
+209,Sevilla,Alaves
